@@ -1,2 +1,2 @@
 # README.md
-test
+A highschooler interested in programming and data science
