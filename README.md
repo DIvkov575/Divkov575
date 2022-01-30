@@ -1,1 +1,1 @@
-A highschooler interested in programming and data science
+**A highschooler interested in programming and data science**
