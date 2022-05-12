@@ -24,5 +24,5 @@ Im Dima, a Highschooler interested in programming and data science
 <!-- https://shields.io/ -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIvkov575&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<img alt="DIvkov575's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DIvkov575&theme=github"/>
+<!-- <img alt="DIvkov575's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DIvkov575&theme=github"/> -->
 </div>
