@@ -7,6 +7,9 @@
 
 Im Dima, a Highschooler interested in programming and data science 
 
+Currently Working on a 3d-printing-distribution-system and a mobile App in react
+<br><br>
+
 <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Divkov575&theme=radical&layout=compact&count_private=true" >
 <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divkov575&layout=compact&theme=radical" >
 <br><br>
