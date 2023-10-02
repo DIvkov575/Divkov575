@@ -5,8 +5,7 @@
   
   I love data and distributed computing
   
-  <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divkov575&layout=compact&theme=radical" >
-  <br></br>
+  <!-- <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divkov575&layout=compact&theme=radical" > -->
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Divkov575&theme=radical&layout=compact&count_private=true" >
   <br></br>
   
