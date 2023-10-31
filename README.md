@@ -10,7 +10,7 @@
   
 
 <!-- ---------------------------------------------------------------------- -->
-<!-- <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divkov575&layout=compact&theme=radical" > -->
+ <img align="center" width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divkov575&layout=compact&theme=radical" > 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DIvkov575&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
   <!-- https://shields.io/ -->
   <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
